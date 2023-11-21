@@ -8,21 +8,343 @@ const Body = () => {
             <table>
               <thead>
                 <tr>
+                  <th>Equipe</th>
                   <th>Nom</th>
-                  <th>Âge</th>
-                  <th>Poste</th>
+                  <th>Age</th>
+                  <th>Min</th>
+                  <th>Points</th>
+                  <th>Rebond</th>
+                  <th>Assist</th>
+                  <th>Block</th>
+                  <th>Steal</th>
+                  <th>Three throw </th>
+                  <th> Tir </th>
+                  <th>Three Point</th>
+                  
                 </tr>
               </thead>
               <tbody>
                 <tr>
-                  <td>John Doe</td>
+                  <td>Celtics</td>
+                  <td>Lebron James</td>
                   <td>30</td>
-                  <td>Développeur</td>
+                  <td>3</td>
+                  <td>20</td>
+                  <td>30</td>
+                  <td>10</td>
+                  <td>5</td>
+                  <td>30</td>
+                  <td>0</td>
+                  <td>1</td>
+                  <td>30</td>
                 </tr>
                 <tr>
-                  <td>Jane Smith</td>
-                  <td>25</td>
-                  <td>Designer</td>
+                  <td>Celtics</td>
+                  <td>Lebron James</td>
+                  <td>30</td>
+                  <td>3</td>
+                  <td>20</td>
+                  <td>30</td>
+                  <td>10</td>
+                  <td>5</td>
+                  <td>30</td>
+                  <td>0</td>
+                  <td>1</td>
+                  <td>30</td>
+                </tr>
+                <tr>
+                  <td>Celtics</td>
+                  <td>Lebron James</td>
+                  <td>30</td>
+                  <td>3</td>
+                  <td>20</td>
+                  <td>30</td>
+                  <td>10</td>
+                  <td>5</td>
+                  <td>30</td>
+                  <td>0</td>
+                  <td>1</td>
+                  <td>30</td>
+                </tr>
+                <tr>
+                  <td>Celtics</td>
+                  <td>Lebron James</td>
+                  <td>30</td>
+                  <td>3</td>
+                  <td>20</td>
+                  <td>30</td>
+                  <td>10</td>
+                  <td>5</td>
+                  <td>30</td>
+                  <td>0</td>
+                  <td>1</td>
+                  <td>30</td>
+                </tr>
+                <tr>
+                  <td>Celtics</td>
+                  <td>Lebron James</td>
+                  <td>30</td>
+                  <td>3</td>
+                  <td>20</td>
+                  <td>30</td>
+                  <td>10</td>
+                  <td>5</td>
+                  <td>30</td>
+                  <td>0</td>
+                  <td>1</td>
+                  <td>30</td>
+                </tr>
+                <tr>
+                  <td>Celtics</td>
+                  <td>Lebron James</td>
+                  <td>30</td>
+                  <td>3</td>
+                  <td>20</td>
+                  <td>30</td>
+                  <td>10</td>
+                  <td>5</td>
+                  <td>30</td>
+                  <td>0</td>
+                  <td>1</td>
+                  <td>30</td>
+                </tr>
+                <tr>
+                  <td>Celtics</td>
+                  <td>Lebron James</td>
+                  <td>30</td>
+                  <td>3</td>
+                  <td>20</td>
+                  <td>30</td>
+                  <td>10</td>
+                  <td>5</td>
+                  <td>30</td>
+                  <td>0</td>
+                  <td>1</td>
+                  <td>30</td>
+                </tr>
+                <tr>
+                  <td>Celtics</td>
+                  <td>Lebron James</td>
+                  <td>30</td>
+                  <td>3</td>
+                  <td>20</td>
+                  <td>30</td>
+                  <td>10</td>
+                  <td>5</td>
+                  <td>30</td>
+                  <td>0</td>
+                  <td>1</td>
+                  <td>30</td>
+                </tr>
+                <tr>
+                  <td>Celtics</td>
+                  <td>Lebron James</td>
+                  <td>30</td>
+                  <td>3</td>
+                  <td>20</td>
+                  <td>30</td>
+                  <td>10</td>
+                  <td>5</td>
+                  <td>30</td>
+                  <td>0</td>
+                  <td>1</td>
+                  <td>30</td>
+                </tr>
+                <tr>
+                  <td>Celtics</td>
+                  <td>Lebron James</td>
+                  <td>30</td>
+                  <td>3</td>
+                  <td>20</td>
+                  <td>30</td>
+                  <td>10</td>
+                  <td>5</td>
+                  <td>30</td>
+                  <td>0</td>
+                  <td>1</td>
+                  <td>30</td>
+                </tr>
+                <tr>
+                  <td>Celtics</td>
+                  <td>Lebron James</td>
+                  <td>30</td>
+                  <td>3</td>
+                  <td>20</td>
+                  <td>30</td>
+                  <td>10</td>
+                  <td>5</td>
+                  <td>30</td>
+                  <td>0</td>
+                  <td>1</td>
+                  <td>30</td>
+                </tr>
+                <tr>
+                  <td>Celtics</td>
+                  <td>Lebron James</td>
+                  <td>30</td>
+                  <td>3</td>
+                  <td>20</td>
+                  <td>30</td>
+                  <td>10</td>
+                  <td>5</td>
+                  <td>30</td>
+                  <td>0</td>
+                  <td>1</td>
+                  <td>30</td>
+                </tr>
+                <tr>
+                  <td>Celtics</td>
+                  <td>Lebron James</td>
+                  <td>30</td>
+                  <td>3</td>
+                  <td>20</td>
+                  <td>30</td>
+                  <td>10</td>
+                  <td>5</td>
+                  <td>30</td>
+                  <td>0</td>
+                  <td>1</td>
+                  <td>30</td>
+                </tr>
+                <tr>
+                  <td>Celtics</td>
+                  <td>Lebron James</td>
+                  <td>30</td>
+                  <td>3</td>
+                  <td>20</td>
+                  <td>30</td>
+                  <td>10</td>
+                  <td>5</td>
+                  <td>30</td>
+                  <td>0</td>
+                  <td>1</td>
+                  <td>30</td>
+                </tr>
+                <tr>
+                  <td>Celtics</td>
+                  <td>Lebron James</td>
+                  <td>30</td>
+                  <td>3</td>
+                  <td>20</td>
+                  <td>30</td>
+                  <td>10</td>
+                  <td>5</td>
+                  <td>30</td>
+                  <td>0</td>
+                  <td>1</td>
+                  <td>30</td>
+                </tr>
+                <tr>
+                  <td>Celtics</td>
+                  <td>Lebron James</td>
+                  <td>30</td>
+                  <td>3</td>
+                  <td>20</td>
+                  <td>30</td>
+                  <td>10</td>
+                  <td>5</td>
+                  <td>30</td>
+                  <td>0</td>
+                  <td>1</td>
+                  <td>30</td>
+                </tr>
+                <tr>
+                  <td>Celtics</td>
+                  <td>Lebron James</td>
+                  <td>30</td>
+                  <td>3</td>
+                  <td>20</td>
+                  <td>30</td>
+                  <td>10</td>
+                  <td>5</td>
+                  <td>30</td>
+                  <td>0</td>
+                  <td>1</td>
+                  <td>30</td>
+                </tr>
+                <tr>
+                  <td>Celtics</td>
+                  <td>Lebron James</td>
+                  <td>30</td>
+                  <td>3</td>
+                  <td>20</td>
+                  <td>30</td>
+                  <td>10</td>
+                  <td>5</td>
+                  <td>30</td>
+                  <td>0</td>
+                  <td>1</td>
+                  <td>30</td>
+                </tr>
+                <tr>
+                  <td>Celtics</td>
+                  <td>Lebron James</td>
+                  <td>30</td>
+                  <td>3</td>
+                  <td>20</td>
+                  <td>30</td>
+                  <td>10</td>
+                  <td>5</td>
+                  <td>30</td>
+                  <td>0</td>
+                  <td>1</td>
+                  <td>30</td>
+                </tr>
+                <tr>
+                  <td>Celtics</td>
+                  <td>Lebron James</td>
+                  <td>30</td>
+                  <td>3</td>
+                  <td>20</td>
+                  <td>30</td>
+                  <td>10</td>
+                  <td>5</td>
+                  <td>30</td>
+                  <td>0</td>
+                  <td>1</td>
+                  <td>30</td>
+                </tr>
+                <tr>
+                  <td>Celtics</td>
+                  <td>Lebron James</td>
+                  <td>30</td>
+                  <td>3</td>
+                  <td>20</td>
+                  <td>30</td>
+                  <td>10</td>
+                  <td>5</td>
+                  <td>30</td>
+                  <td>0</td>
+                  <td>1</td>
+                  <td>30</td>
+                </tr>
+                <tr>
+                  <td>Celtics</td>
+                  <td>Lebron James</td>
+                  <td>30</td>
+                  <td>3</td>
+                  <td>20</td>
+                  <td>30</td>
+                  <td>10</td>
+                  <td>5</td>
+                  <td>30</td>
+                  <td>0</td>
+                  <td>1</td>
+                  <td>30</td>
+                </tr>
+                <tr>
+                  <td>Celtics</td>
+                  <td>Lebron James</td>
+                  <td>30</td>
+                  <td>3</td>
+                  <td>20</td>
+                  <td>30</td>
+                  <td>10</td>
+                  <td>5</td>
+                  <td>30</td>
+                  <td>0</td>
+                  <td>1</td>
+                  <td>30</td>
                 </tr>
                 {/* Ajoutez d'autres lignes de données ici */}
               </tbody>
