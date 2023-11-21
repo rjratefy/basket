@@ -1,7 +1,10 @@
 .table-container {
     width: 80%;
-    margin: 20px auto;
+    margin: 10px auto;
     border-collapse: collapse;
+    margin-left: 23%; 
+    margin-top: 2%;
+   
   }
   
   .table-container th,
@@ -9,6 +12,7 @@
     border: 1px solid #ddd;
     padding: 8px;
     text-align: left;
+    background-color: rgba(255, 255, 255, 0.5);
   }
   
   .table-container th {

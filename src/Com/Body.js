@@ -304,48 +304,6 @@ const Body = () => {
                   <td>1</td>
                   <td>30</td>
                 </tr>
-                <tr>
-                  <td>Celtics</td>
-                  <td>Lebron James</td>
-                  <td>30</td>
-                  <td>3</td>
-                  <td>20</td>
-                  <td>30</td>
-                  <td>10</td>
-                  <td>5</td>
-                  <td>30</td>
-                  <td>0</td>
-                  <td>1</td>
-                  <td>30</td>
-                </tr>
-                <tr>
-                  <td>Celtics</td>
-                  <td>Lebron James</td>
-                  <td>30</td>
-                  <td>3</td>
-                  <td>20</td>
-                  <td>30</td>
-                  <td>10</td>
-                  <td>5</td>
-                  <td>30</td>
-                  <td>0</td>
-                  <td>1</td>
-                  <td>30</td>
-                </tr>
-                <tr>
-                  <td>Celtics</td>
-                  <td>Lebron James</td>
-                  <td>30</td>
-                  <td>3</td>
-                  <td>20</td>
-                  <td>30</td>
-                  <td>10</td>
-                  <td>5</td>
-                  <td>30</td>
-                  <td>0</td>
-                  <td>1</td>
-                  <td>30</td>
-                </tr>
                 {/* Ajoutez d'autres lignes de données ici */}
               </tbody>
             </table>
